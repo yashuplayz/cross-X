@@ -1,6 +1,6 @@
 import './style.css'
 
-const backendUrl = 'http://localhost:3001';
+const backendUrl = 'https://cross-x-server.onrender.com/';
 
 function showRoomSelection() {
   clearAllIntervals();
